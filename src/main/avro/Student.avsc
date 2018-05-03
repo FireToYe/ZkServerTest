@@ -1,0 +1,10 @@
+{
+    "namespace":"com.zhongkk.avro",
+    "type":"record",
+    "name":"Teacher",
+    "fields":[
+    {"name":"username","type":"string"},
+    {"name":"age","type":["int","null"]}
+    ]
+
+}

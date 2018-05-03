@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AvroClient/AvroClient.iml" filepath="$PROJECT_DIR$/AvroClient/AvroClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AvroService/AvroService.iml" filepath="$PROJECT_DIR$/AvroService/AvroService.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZkServerTest.iml" filepath="$PROJECT_DIR$/ZkServerTest.iml" />
     </modules>
   </component>

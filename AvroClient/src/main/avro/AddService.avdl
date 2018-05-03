@@ -1,0 +1,4 @@
+@namespace("com.zhongkk.service.rpc")
+protocol AddService{
+  int add(int i,int j);
+}

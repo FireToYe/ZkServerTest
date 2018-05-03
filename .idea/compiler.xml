@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ZkServerTest" />
+        <module name="AvroClient" />
+        <module name="AvroService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AvroClient" target="1.5" />
+      <module name="AvroService" target="1.5" />
       <module name="ZkServerTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
